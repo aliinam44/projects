@@ -2,7 +2,8 @@
 
 This project focuses on cleaning and analyzing a dataset containing global company layoffs. The dataset includes key details such as company names, industries, locations, layoff counts, funding amounts, and dates of layoffs. Using SQL, we perform a structured data cleaning process followed by Exploratory Data Analysis (EDA) to identify trends, patterns, and insights related to layoffs over time.
 
-Key Objectives
+**Key Objectives**
+
 Data Cleaning
 
 Create a staging table to preserve raw data.
